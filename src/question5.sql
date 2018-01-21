@@ -1,5 +1,5 @@
-# I had a problem with my system variables and could not fixed it in time for importing the SQL file.
-# I could only see the tables and their fields. =\
+# I had a problem with my system variables and could not fixed it in time for running the sql server.
+# I could only see the tables and their fields.
 # The answer to the second question is the same but change to MIN function in line 19.
 
 #	lines 19-26: worker with the max salary in the company
